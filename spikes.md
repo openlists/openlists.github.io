@@ -6,11 +6,11 @@ permalink: /spikes/
 
 This is a collection of tools & resources related to 'spikes' in neuroscience (action potentials recorded from individual neurons).
 
-This list covers single-unit and multi-unit data, including data management, spike sorting, and available tools and analyses.
+This list covers single-unit and multi-unit data, including data management, spike sorting, and available tools and analyses. 
 
 To contribute a new link to a tool or resource, open an issue mentioning it, or a pull request with a link.
 
-Note that single-unit datasets are listed in the
+Note that single-unit datasets are listed in the 
 [OpenData](https://github.com/openlists/ElectrophysiologyData) list.
 
 ## Table of Contents
@@ -22,7 +22,7 @@ Note that single-unit datasets are listed in the
 
 ## Data Recording
 
-Single-unit data can be recorded with various different amplifiers and recording systems from different companies.
+Single-unit data can be recorded with various different amplifiers and recording systems from different companies. 
 
 This section lists companies that make recording systems for single-unit recordings.
 
@@ -37,13 +37,13 @@ This section lists companies that make recording systems for single-unit recordi
 
 ## Data Management
 
-Data from different recording system are often stored in proprietary file formats.
+Data from different recording system are often stored in proprietary file formats. 
 
-This section collects tools and resources related to data management for neural recordings of single- an multi-unit data.
+This section collects tools and resources related to data management for neural recordings of single- an multi-unit data. 
 
 ### Neurodata Without Borders
 
-[NWB](https://www.nwb.org/) is a standardized data schema that can be used to store single-unit data.
+[NWB](https://www.nwb.org/) is a standardized data schema that can be used to store single-unit data. 
 
 Within the NWB ecosystem, there are the following associated tools:
 - [pynwb](https://github.com/NeurodataWithoutBorders/pynwb), a Python interface for NWB files
@@ -68,7 +68,7 @@ Spike sorting tutorials:
 - A [tutorial](https://www.cambridgeneurotech.com/webinars/spike-sorting) from cambridge neurotech
 - A [tutorial](https://cbmm.mit.edu/learning-hub/tutorials/computational-tutorial/introduction-spike-sorting) from CBBM
 - A [brief lesson on spike sorting](https://github.com/BIPN145/SpikeSorting) from a class
-- A [brief, standalone tutorial](https://github.com/michnard/SpikeSortingTutorial) on spike sorting
+- A [brief, standalone tutorial](https://github.com/michnard/SpikeSortingTutorial) on spike sorting 
 
 ### Spike Interface
 
@@ -104,7 +104,7 @@ Spike sorters that can be used on multi-channel / high density recordings, such 
 
 ### Comparisons & Quality Control
 
-Spike sorting solutions can vary, and in general requires quality control procedures to ensure that sorting solution are robust and adequately reflect isolated units. Different spike sorters can give different solutions, and it may be useful to compare different spike sorters to each other.
+Spike sorting solutions can vary, and in general requires quality control procedures to ensure that sorting solution are robust and adequately reflect isolated units. Different spike sorters can give different solutions, and it may be useful to compare different spike sorters to each other. 
 
 The following are guides to quality control for spike sorting:
 - A [quality metrics guide](https://allensdk.readthedocs.io/en/latest/_static/examples/nb/ecephys_quality_metrics.html) from the Allen institute
@@ -115,7 +115,7 @@ The following are systematic comparisons of different spike sorters:
 
 ## Spike Analyses
 
-The following collects tools and resources for analyzing (sorted) single neuron data.
+The following collects tools and resources for analyzing (sorted) single neuron data. 
 
 ### General Toolboxes
 
@@ -123,7 +123,7 @@ General Tools:
 - [Spykes](https://github.com/KordingLab/spykes) is a Python toolbox for spike data analysis & visualizations
 - [elephant](https://github.com/NeuralEnsemble/elephant), which uses [neo](https://github.com/NeuralEnsemble/python-neo)
 - [Phy](https://phy.readthedocs.io/en/latest/) is a Python tool providing a graphical interface for visualization and manual curation of large-scale electrophysiology data
-- [Brainstorm](https://neuroimage.usc.edu/brainstorm/), a general purpose, Matlab toolbox, has tools for processing
+- [Brainstorm](https://neuroimage.usc.edu/brainstorm/), a general purpose, Matlab toolbox, has tools for processing 
 [ephys data](https://neuroimage.usc.edu/brainstorm/e-phys/Introduction)
 
 ### Simulations
