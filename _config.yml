@@ -1,8 +1,8 @@
 title: 'OpenLists'
 description: 'Words, words, words.'
 
-remote_theme: hydecorp/hydejack
-#remote_theme: poole/hyde
+#remote_theme: hydecorp/hydejack
+remote_theme: poole/hyde
 
 menu:
   - title:  Python
