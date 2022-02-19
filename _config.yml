@@ -4,13 +4,9 @@ description: 'Curated lists of Open Resources.'
 remote_theme: hydecorp/hydejack
 #remote_theme: poole/hyde
 
-#
-#github_username: TomDonoghue
-#twitter_username: TomDonoghue
-
 author:
   social:
-    github:  OpenLists
+    github: OpenLists
     twitter: TomDonoghue
 
 menu:
