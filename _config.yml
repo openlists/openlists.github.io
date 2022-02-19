@@ -4,6 +4,10 @@ description: 'Curated lists of Open Resources.'
 remote_theme: hydecorp/hydejack
 #remote_theme: poole/hyde
 
+#
+github_username: TomDonoghue
+twitter_username: TomDonoghue
+
 menu:
   - title:  Data
     url:    /data/
