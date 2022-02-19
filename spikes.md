@@ -1,6 +1,7 @@
 ---
 title: Spikes
 layout: page
+permalink: /spikes/
 ---
 
 This is a collection of tools & resources related to 'spikes' in neuroscience (action potentials recorded from individual neurons).

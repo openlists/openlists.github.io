@@ -1,6 +1,7 @@
 ---
 title: Python
 layout: page
+permalink: /python/
 ---
 
 Open resources for learning and using the Python programming language.

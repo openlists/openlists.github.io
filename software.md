@@ -1,6 +1,7 @@
 ---
 title: Software
 layout: page
+permalink: /software/
 ---
 
 This is a list of openly available software and code for working with electrophysiological data, including EEG, MEG, ECoG/iEEG, and LFP.
