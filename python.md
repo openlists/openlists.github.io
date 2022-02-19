@@ -1,8 +1,7 @@
 ---
-layout: default
+title: Python
+layout: page
 ---
-
-# Python Resources
 
 Open resources for learning and using the Python programming language.
 
@@ -37,7 +36,7 @@ The following are openly available courses, resources and/or tutorials for learn
 
 The Python cheatsheet is a comprehensive collection of notes on standard library Python.
 
-[HomePage](https://gto76.github.io/python-cheatsheet/) - 
+[HomePage](https://gto76.github.io/python-cheatsheet/) -
 [Github](https://github.com/gto76/python-cheatsheet)
 
 ### Introductory Python
@@ -73,22 +72,22 @@ Whirlwind tour of Python, by Jake VanderPlas, is a quick introduction to the Pyt
 
 ### Python for Everybody
 
-PY4E, by Dr. Chuck, is a set of free materials, including lessons and videos, for learning to program in Python. 
+PY4E, by Dr. Chuck, is a set of free materials, including lessons and videos, for learning to program in Python.
 
-[Homepage](https://www.py4e.com/) - 
-[Course](https://dabeaz-course.github.io/practical-python/Notes/Contents.html) - 
+[Homepage](https://www.py4e.com/) -
+[Course](https://dabeaz-course.github.io/practical-python/Notes/Contents.html) -
 [Lessons](https://www.py4e.com/lessons)
 
 ### Practical Python Programming
 
 Practical Python Programming, by David Beazley, is an openly available course on the Python programming language.
 
-[Homepage](https://dabeaz-course.github.io/practical-python/) - 
+[Homepage](https://dabeaz-course.github.io/practical-python/) -
 [Github](https://github.com/dabeaz-course/practical-python)
 
 ### Python in 4 Hours
 
-This video lesson, from freeCodeCamp.Org, is brief course introducing the Python programming language. 
+This video lesson, from freeCodeCamp.Org, is brief course introducing the Python programming language.
 
 [Video](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
@@ -101,7 +100,7 @@ Intermediate Python is a collection of materials for learning intermediate-level
 
 ## Scientific Python
 
-'Scientific Python' refers to the tools and communities in Python that focus on numerical, scientific & data applications. 
+'Scientific Python' refers to the tools and communities in Python that focus on numerical, scientific & data applications.
 
 Generally, this is clustered around the [scipy](https://www.scipy.org/about.html) ecosystem.
 
@@ -133,7 +132,7 @@ The Python Data Science Handbook, by Jake VanderPlas, is an openly available res
 
 Data Science in Practice is a course taught and developed at UC San Diego (as COGS108) with openly available materials for learning data science with Python.
 
-[Website](https://datascienceinpractice.github.io/) - 
+[Website](https://datascienceinpractice.github.io/) -
 [Github](https://github.com/COGS108)
 
 ### Numerical Tours in Python
@@ -158,22 +157,22 @@ The IPython Cookbook is an openly available collection of numerical computing ex
 
 ### Python for Data Analysis
 
-Python for Data Analysis, by Luke Thompson, is an introduction to doing data science in Python, with Jupyer notebooks. 
+Python for Data Analysis, by Luke Thompson, is an introduction to doing data science in Python, with Jupyer notebooks.
 
 [Github](https://github.com/cuttlefishh/python-for-data-analysis)
 
 ### University of Michigan Girls Who Code Materials
 
-Introductory materials, starting at basic Python and working through numerical computation and data management, using practice notebooks. 
+Introductory materials, starting at basic Python and working through numerical computation and data management, using practice notebooks.
 
-[Github](https://github.com/GWC-DCMB/curriculum-notebooks/) - 
+[Github](https://github.com/GWC-DCMB/curriculum-notebooks/) -
 [Paper](https://jose.theoj.org/papers/10.21105/jose.00138)
 
 ### Reproducible Data Science with Python Tools and Real-World Data
 
-This online textbook covers data science work in Python, using real-world datasets, related to the COVID-19 pandemic. 
+This online textbook covers data science work in Python, using real-world datasets, related to the COVID-19 pandemic.
 
-[HomePage](https://valdanchev.github.io/reproducible-data-science-python/intro.html) - 
+[HomePage](https://valdanchev.github.io/reproducible-data-science-python/intro.html) -
 [Github](https://github.com/valdanchev/reproducible-data-science-python)
 
 ## Exercises

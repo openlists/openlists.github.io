@@ -1,9 +1,7 @@
 ---
+title: data
 layout: page
-permalink: /data/
 ---
-
-# Open Datasets in Electrophysiology
 
 This is a list of openly available electrophysiological data, including EEG, MEG, ECoG/iEEG, and LFP data.
 

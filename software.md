@@ -1,8 +1,7 @@
 ---
-layout: default
+title: Software
+layout: page
 ---
-
-# Open Software for Human Electrophysiology
 
 This is a list of openly available software and code for working with electrophysiological data, including EEG, MEG, ECoG/iEEG, and LFP.
 
@@ -130,7 +129,7 @@ The following are general purpose platforms, with functionality including: loadi
 
 `Signaleeg` is a general purpose tool for processing and analyzing EEG data, with a focus on signal-data mining.
 
-[Code](https://caleta.udg.edu/git/eXiT_Research_Group/Signaleeg/src/branch/v1) - 
+[Code](https://caleta.udg.edu/git/eXiT_Research_Group/Signaleeg/src/branch/v1) -
 [Paper](https://doi.org/10.1007/s12021-020-09507-2)
 
 ### EEGUtils
@@ -179,7 +178,7 @@ The following are standalone tools, independent of general software platforms, f
 
 `NeuroDSP` is a package for calculating a broad range of measures on neural time series, including a range of time-domain measures such as waveform shape analyses.
 
-[Homepage](https://neurodsp-tools.github.io/) - 
+[Homepage](https://neurodsp-tools.github.io/) -
 [Github](https://github.com/neurodsp-tools/neurodsp) -
 [Paper](https://doi.org/10.21105/joss.01272)
 
@@ -189,7 +188,7 @@ The following are standalone tools, independent of general software platforms, f
 
 `SpecParam` (formerly called `fooof`) is a package for parameterizing neural power spectra.
 
-[Homepage](https://fooof-tools.github.io/) - 
+[Homepage](https://fooof-tools.github.io/) -
 [Github](https://github.com/fooof-tools/fooof) -
 [Paper](https://doi.org/10.1038/s41593-020-00744-x)
 
@@ -199,7 +198,7 @@ The following are standalone tools, independent of general software platforms, f
 
 `ByCycle` is a tool for cycle-by-cycle analyses of neural oscillations.
 
-[Homepage](https://bycycle-tools.github.io/) - 
+[Homepage](https://bycycle-tools.github.io/) -
 [Github](https://github.com/bycycle-tools/bycycle) -
 [Paper](https://doi.org/10.1152/jn.00273.2019)
 
@@ -207,10 +206,10 @@ The following are standalone tools, independent of general software platforms, f
 
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
 
-A Python implementation of the 'irregular resampling auto-spectral analysis'. 
-Note that this is a re-implementation of the algorithm described in the paper. 
+A Python implementation of the 'irregular resampling auto-spectral analysis'.
+Note that this is a re-implementation of the algorithm described in the paper.
 
-[Github](https://github.com/jrudoler/irasa) - 
+[Github](https://github.com/jrudoler/irasa) -
 [Paper](https://doi.org/10.1007/s10548-015-0448-0)
 
 ### Frites: Framework for Information Theoretic analysis of Electrophysiological data and Statistics
@@ -219,7 +218,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 
 `FRITES` is package for computing information-theoretic measures on human and electrophysiological data.
 
-[Homepage](https://brainets.github.io/frites/) - 
+[Homepage](https://brainets.github.io/frites/) -
 [Github](https://github.com/brainets/frites)
 
 ### Antropy
@@ -228,7 +227,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 
 `Antropy` is a package for computing entropy and complexity measures on EEG data.
 
-[Homepage](https://raphaelvallat.com/antropy/build/html/index.html) - 
+[Homepage](https://raphaelvallat.com/antropy/build/html/index.html) -
 [Github](https://github.com/raphaelvallat/antropy)
 
 ### PTSA - Python Time Series Analysis
@@ -237,7 +236,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 
 `PTSA` is package for time series analysis in Python, focused on analyzing electrophysiological data.
 
-[Homepage](https://pennmem.github.io/ptsa_new/html/index.html) - 
+[Homepage](https://pennmem.github.io/ptsa_new/html/index.html) -
 [Github](https://github.com/pennmem/ptsa_new)
 
 ### Spectral Connectivity
@@ -264,7 +263,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 `TensorPAC` is a tool for calculating phase-amplitude coupling measures, using tensors and parallel computing.
 
 [HomePage](https://etiennecmb.github.io/tensorpac/) -
-[Github](https://github.com/EtienneCmb/tensorpac) - 
+[Github](https://github.com/EtienneCmb/tensorpac) -
 [Paper](https://doi.org/10.1371/journal.pcbi.1008302)
 
 ### PACTools
@@ -314,10 +313,10 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 
 ### kCSD
 
-The `kCSD` tool implements kernel Current Source Density. 
+The `kCSD` tool implements kernel Current Source Density.
 
-[HomePage](https://kcsd-python.readthedocs.io/en/latest/) - 
-[Github](https://github.com/Neuroinflab/kCSD-python) - 
+[HomePage](https://kcsd-python.readthedocs.io/en/latest/) -
+[Github](https://github.com/Neuroinflab/kCSD-python) -
 [Paper](https://www.biorxiv.org/content/10.1101/708511v1.abstract)
 
 ### EMD
@@ -326,8 +325,8 @@ The `kCSD` tool implements kernel Current Source Density.
 
 The `EMD` tool implements empirical mode decomposition and Hilbert-Huang spectral analyses.
 
-[HomePage](https://emd.readthedocs.io/) - 
-[Code](https://gitlab.com/emd-dev/emd) - 
+[HomePage](https://emd.readthedocs.io/) -
+[Code](https://gitlab.com/emd-dev/emd) -
 [Paper](http://doi.org/10.21105/joss.02977)
 
 ### eBOSC
@@ -336,7 +335,7 @@ The `EMD` tool implements empirical mode decomposition and Hilbert-Huang spectra
 
 The 'extended Better OSCillation' method, or `eBOSC`, is a tool for oscillation detection and measurement.
 
-[Github](https://github.com/jkosciessa/eBOSC) - 
+[Github](https://github.com/jkosciessa/eBOSC) -
 [Paper](http://doi.org/10.1016/j.neuroimage.2019.116331)
 
 ### restingIAF
@@ -437,7 +436,7 @@ Phase Opposition is a collection of functions for calculating phase opposition m
 
 The `MVGC` toolbox is designed to run Granger-causal analysis on multivariate time-series data.
 
-[HomePage](https://users.sussex.ac.uk/~lionelb/MVGC/html/mvgchelp.html#3) - 
+[HomePage](https://users.sussex.ac.uk/~lionelb/MVGC/html/mvgchelp.html#3) -
 [Code](https://www.sussex.ac.uk/sackler/mvgc/) -
 [Paper](https://doi.org/10.1016/j.jneumeth.2013.10.018)
 
@@ -483,7 +482,7 @@ The following are plugins, designed primary for use with one of the aforemention
 
 `PrPREP` is an implementation of the 'Preprocessing Pipeline' (PREP) for EEG data, in Python and using MNE.
 
-[Homepage](https://pyprep.readthedocs.io/en/latest/) - 
+[Homepage](https://pyprep.readthedocs.io/en/latest/) -
 [Github](https://github.com/sappelhoff/pyprep)
 
 ### PREP Pipeline (Standardized EEG preprocessing)
@@ -557,16 +556,16 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
-[HomePage](https://nipy.org/nibabel/) - 
+[HomePage](https://nipy.org/nibabel/) -
 [Github](https://github.com/nipy/nibabel)
 
 ### nilearn
 
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
 
-`nilearn` is a tool for applying machine learning to neuroimaging data. 
+`nilearn` is a tool for applying machine learning to neuroimaging data.
 
-[HomePage](https://nilearn.github.io/) - 
+[HomePage](https://nilearn.github.io/) -
 [Github](https://github.com/nilearn/nilearn)
 
 ### Visbrain
@@ -575,7 +574,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 `Visbrain` is a tool for brain data visualization.
 
-[Homepage](http://visbrain.org/) - 
+[Homepage](http://visbrain.org/) -
 [Github](https://github.com/EtienneCmb/visbrain)
 
 ### PyCortex
@@ -584,25 +583,25 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 `PyCortex` is a tool for visualizing cortical surfaces.
 
-[Homepage](https://gallantlab.github.io/pycortex/) - 
+[Homepage](https://gallantlab.github.io/pycortex/) -
 [Github](https://github.com/gallantlab/pycortex)
 
-### BrainSpace 
+### BrainSpace
 
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
 
 `BrainSpace` is a tool for analyzing gradients in neuroimaging datasets.
 
-[HomePage](https://brainspace.readthedocs.io/en/latest/) - 
-[Github](https://github.com/MICA-MNI/BrainSpace) - 
+[HomePage](https://brainspace.readthedocs.io/en/latest/) -
+[Github](https://github.com/MICA-MNI/BrainSpace) -
 [Paper](https://doi.org/10.1038/s42003-020-0794-7)
 
 ### neuromaps
 
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
 
-`neuromaps` is a tool for comparing between brain maps. 
+`neuromaps` is a tool for comparing between brain maps.
 
-[HomePage](https://netneurolab.github.io/neuromaps/) - 
-[Github](https://github.com/netneurolab/neuromaps) - 
+[HomePage](https://netneurolab.github.io/neuromaps/) -
+[Github](https://github.com/netneurolab/neuromaps) -
 [Paper](https://www.biorxiv.org/content/10.1101/2022.01.06.475081v1)
