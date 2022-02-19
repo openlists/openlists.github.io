@@ -1,7 +1,6 @@
 ---
 title: OpenLists
 layout: page
-permalink: /openlists/
 ---
 
 OpenLists is a collection of lists that curates open resources and materials in the areas of science and computation.
