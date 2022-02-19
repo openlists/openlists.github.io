@@ -1,5 +1,6 @@
 ---
-layout: list
+layout: page
+permalink: /data/
 ---
 
 # Open Datasets in Electrophysiology
@@ -199,7 +200,7 @@ The CHBMP is an open dataset from 282 young and middle age healthy participants,
 A large multimodal dataset (n=228), with cross-sectional sampling of young and old participants, and including MRI, EEG, physiological, clinical and cognitive measures.
 
 [Homepage](https://doi.org/10.15387/fcp_indi.mpi_lemon) -
-[Data](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON/downloads/download_EEG.html) - 
+[Data](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON/downloads/download_EEG.html) -
 [Paper](https://doi.org/10.1038/sdata.2018.308)
 
 ### Individual EEG Datasets (Research Systems)
@@ -289,28 +290,28 @@ The following are datasets collected with research EEG systems:
 [Data](https://doi.org/10.6084/m9.figshare.13123148) -
 [Paper](https://www.nature.com/articles/s41597-021-00883-1)
 - An EEG dataset of with rapid serial visual presentation (n=50):
-[Data](https://doi.org/10.18112/openneuro.ds003825.v1.1.0) - 
+[Data](https://doi.org/10.18112/openneuro.ds003825.v1.1.0) -
 [Paper](https://doi.org/10.1038/s41597-021-01102-7)
 - A dataset of hdEEG during transcranial electrical stimulation (n=20):
-[Data](https://zenodo.org/record/4456079) - 
+[Data](https://zenodo.org/record/4456079) -
 [Paper](https://doi.org/10.1038/s41597-021-01046-y)
 - Mobile BCI dataset of scalp and ear EEG with ERP and SSVEP paradigms while standing and moving (n=24):
-[Data](https://doi.org/10.17605/OSF.IO/R7S9Bhttps) - 
+[Data](https://doi.org/10.17605/OSF.IO/R7S9Bhttps) -
 [Paper](https://doi.org/10.1038/s41597-021-01094-4)
 - Polysomnography dataset, including 3 EEG channels, for sleep apnea studies (n=212):
-[Data](https://doi.org/10.11922/sciencedb.00345) - 
+[Data](https://doi.org/10.11922/sciencedb.00345) -
 [Paper](https://doi.org/10.1038/s41597-021-00977-w)
 - EEG and EMG data during perturbed walking and standing (n=30):
-[Data](https://doi.org/10.1016/j.dib.2021.107635) - 
+[Data](https://doi.org/10.1016/j.dib.2021.107635) -
 [Paper](https://doi.org/10.1016/j.dib.2021.107635)
 - EEG data in subjects with claustrophobia, and controls, resting state in different sized rooms (n=22):
-[Data](https://doi.org/10.1016/j.dib.2021.107733) - 
+[Data](https://doi.org/10.1016/j.dib.2021.107733) -
 [Paper](https://doi.org/10.1016/j.dib.2021.107733)
 - A dataset of arm motion in healthy and post-stroke subjects, with some EEG data (n=45 with EEG):
-[Data](https://doi.org/10.7910/DVN/FU3QZ9) - 
+[Data](https://doi.org/10.7910/DVN/FU3QZ9) -
 [Paper](https://doi.org/10.1093/gigascience/giab043)
 - A dataset of EEG and behavioural data with a visual working memory task in virtual reality (n=47):
-[Data](https://osf.io/s9xmu/) - 
+[Data](https://osf.io/s9xmu/) -
 [Paper](https://doi.org/10.1016/j.dib.2022.107827)
 
 ### Individual EEG Datasets (Consumer Systems)
@@ -354,7 +355,7 @@ CAMCAN includes task & rest MEG data from a large cohort, balanced in age from a
 
 The following are openly available datasets with MEG data:
 - 'Mother of unification studies' (MOUS) dataset, resting state and language task (n=204):
-[Data](https://data.donders.ru.nl/collections/di/dccn/DSC_3011020.09_236?0) - 
+[Data](https://data.donders.ru.nl/collections/di/dccn/DSC_3011020.09_236?0) -
 [Paper](https://www.nature.com/articles/s41597-019-0020-y)
 - Classification of Multimodal Stimulus Presentation - Visual & Auditory (n=52):
 [Data](https://osf.io/m25n4/) -
@@ -365,7 +366,7 @@ The following are openly available datasets with MEG data:
 - Decaf dataset, movie clip watching (n=30):
 [Data](http://mhug.disi.unitn.it/wp-content/DECAF/DECAF.html)
 - MEG data during four mental imagery tasks, for BCI analyses (n=17):
-[Data](https://doi.org/10.6084/m9.figshare.c.5101544) - 
+[Data](https://doi.org/10.6084/m9.figshare.c.5101544) -
 [Paper](https://doi.org/10.1038/s41597-021-00899-7)
 
 ## Human Intracranial Data
@@ -374,10 +375,10 @@ This section contains intracranial EEG (iEEG) data from humans participants (col
 
 ### MNI Open iEEG Atlas
 
-The MNI Open iEEG atlas is a multi-center repository of curated iEEG data, including resting state (n=106) and sleep (n=91) data. 
+The MNI Open iEEG atlas is a multi-center repository of curated iEEG data, including resting state (n=106) and sleep (n=91) data.
 
-[Home Page](https://mni-open-ieegatlas.research.mcgill.ca) - 
-[Paper (rest data)](https://doi.org/10.1093/brain/awy035) - 
+[Home Page](https://mni-open-ieegatlas.research.mcgill.ca) -
+[Paper (rest data)](https://doi.org/10.1093/brain/awy035) -
 [Paper (sleep data)](https://doi.org/10.1002/ana.25651)
 
 ### iEEG.org
@@ -419,13 +420,13 @@ The following are openly available datasets with human intracranial data:
 [Data](https://gui.dandiarchive.org/#/dandiset/000055/) -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.07.26.453884v1.abstract)
 - Data from subjects with simultaneous EEG recordings and intracranial electrical stimulation (n=7):
-[Data](https://doi.org/10.25493/NXN2-05W) - 
+[Data](https://doi.org/10.25493/NXN2-05W) -
 [Paper](https://doi.org/10.1038/s41597-020-0467-x)
 - Intracranial data during visual scene recognition of famous landmarks (n=50):
-[Data](https://dabi.loni.usc.edu/dsi/1U01NS098981) - 
+[Data](https://dabi.loni.usc.edu/dsi/1U01NS098981) -
 [Paper](https://doi.org/10.1038/s41597-022-01125-8)
 - Intracranial data during memory tasks with pupillometry (n=10):
-[Data](https://doi.org/10.25493/GKNT-T3X) - 
+[Data](https://doi.org/10.25493/GKNT-T3X) -
 [Paper](https://www.nature.com/articles/s41597-021-01099-z)
 
 ### Human Single Unit Data
