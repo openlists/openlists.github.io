@@ -5,8 +5,13 @@ remote_theme: hydecorp/hydejack
 #remote_theme: poole/hyde
 
 #
-github_username: TomDonoghue
-twitter_username: TomDonoghue
+#github_username: TomDonoghue
+#twitter_username: TomDonoghue
+
+author:
+  social:
+    github:  OpenLists
+    twitter: TomDonoghue
 
 menu:
   - title:  Data
