@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: list
 ---
 
 # Open Datasets in Electrophysiology
