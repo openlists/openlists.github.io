@@ -123,6 +123,14 @@ A large collection of EEG recorded in clinical settings (hospital data).
 [Data Portal](https://www.isip.piconepress.com/projects/tuh_eeg/html/request_access.php) -
 [Paper](https://doi.org/10.3389/fnins.2016.00196)
 
+The TUH includes multiple (described [here](https://isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml)), including:
+- The TUH Abnormal EEG Corpus (TUAB), with annotatations for if recordings are normal or abnormal
+- The TUH EEG Artifact Corpus (TUAR), with annotations of different artifacts
+- The TUH Epilepsy Corpus (TUEP), with a selected of subjects with and without epilepsy
+- The TUH EEG Events Corpus (TUEV), with annotations of specific events (sharp waves, epileptiform discharges, etc)
+- The TUH EEG Seizure Corpus (TUSZ), with annotations for seizures
+- The TUH EEG Slowing Corpus (TUSL), with annotations for slowing events
+
 ### EEGbase
 
 EEGbase is a database for electrophysiological data.
@@ -203,6 +211,14 @@ A large multimodal dataset (n=228), with cross-sectional sampling of young and o
 [Data](http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON/downloads/download_EEG.html) -
 [Paper](https://doi.org/10.1038/sdata.2018.308)
 
+### PEERS - The PENN Electrophysiology of Encoding and Retrieval Study
+
+A large dataset of EEG data (n>300), covering 5 experiments in which subjects perform memory tasks, encoding and retrieving stimuli. 
+
+[Homepage](https://memory.psych.upenn.edu/Penn_Electrophysiology_of_Encoding_and_Retrieval_Study) - 
+[Data](https://memory.psych.upenn.edu/Data_Archive) -
+[Paper](https://psyarxiv.com/bu5x8/)
+
 ### Lab-Specific Data Collections
 
 The following labs are collections of datasets from particular labs:
@@ -210,7 +226,7 @@ The following labs are collections of datasets from particular labs:
 [Datasets](https://narayanan.lab.uiowa.edu/article/datasets) -
 [Lab website](https://narayanan.lab.uiowa.edu/)
 
-### Individual EEG Datasets (Research Systems)
+### Individual EEG Datasets - Research Tasks (Research Systems)
 
 The following are datasets collected with research EEG systems:
 - Motor Imagery BCI Data (n=52):
@@ -320,14 +336,30 @@ The following are datasets collected with research EEG systems:
 - A dataset of EEG and behavioral data with a visual working memory task in virtual reality (n=47):
 [Data](https://osf.io/s9xmu/) -
 [Paper](https://doi.org/10.1016/j.dib.2022.107827)
+- The Nencki-Symfonia EEG/ERP dataset: high-density electroencephalography (EEG) dataset obtained at the Nencki Institute of Experimental Biology from a sample of 42 healthy young adults with three cognitive tasks: (1) an extended Multi-Source Interference Task (MSIT+) with control, Simon, Flanker, and multi-source interference trials; (2) a 3-stimuli oddball task with frequent standard, rare target, and rare distractor stimuli; (3) a control, simple reaction task (SRT); and additionally (4) a resting-state protocol (REST)
+[Data](http://doi.org/10.5524/100990) -
+[Paper](https://doi.org/10.1093/gigascience/giac015)
 
-### Individual EEG Datasets (Consumer Systems)
+### Individual EEG Datasets - Research Tasks (Consumer Systems)
 
-The following are available datasets collected with consumer EEG systems:
+The following are available EEG datasets collected with consumer EEG systems:
 - MNIST of Brain Data from MindBigData (n=1 with 1.2 million trials):
 [Data](http://mindbigdata.com/opendb/index.html)
 - ImageNet of the Brain from MindBigData (n=1 with 70,000 trials):
 [Data](http://mindbigdata.com/opendb/imagenet.html)
+
+### Individual EEG Datasets - Clinical Recordings
+
+The following are available EEG datasets collected in the context of clinical recordings / disease states:
+- Resting state data from Parkinson's patients, with healthy controls (n=28):
+[Data](https://doi.org/10.18112/openneuro.ds002778.v1.0.5) - 
+[Paper](https://doi.org/10.1016/j.nicl.2013.07.013)
+- Data from neonatal EEG recordings with seizure annotations (n=79):
+[Data](https://doi.org/10.5281/zenodo.2547147) - 
+[Paper](https://doi.org/10.1038/sdata.2019.39)
+- A dataset of EEG recordings from pediatric subjects with intractable seizures (n=22):
+[Data](https://physionet.org/content/chbmit/1.0.0/) - 
+[Paper](https://dspace.mit.edu/handle/1721.1/54669)
 
 ### Other lists of EEG Data
 
@@ -411,7 +443,7 @@ A collection of ECoG recordings, including 204 sessions from across 16 different
 [Home Page](https://purl.stanford.edu/zk881ps0522) -
 [Paper](https://doi.org/10.1152/jn.00113.2017)
 
-### Individual ECoG Datasets
+### Individual iEEG Datasets - Research Recordings
 
 The following are openly available datasets with human intracranial data:
 - Multicenter resting state and sleep ECoG data, annotated for artifacts (n=39):
@@ -420,9 +452,9 @@ The following are openly available datasets with human intracranial data:
 - ECoG data from a study looking at sensorimotor alpha and beta activity (n=3):
 [Data](https://osf.io/z4hfm/) -
 [Paper](https://doi.org/10.7554/eLife.48065)
-- A multimodal dataset of iEEG with fMRI, with audio-visual stimuli (n=51):
-[Data](https://openneuro.org/datasets/ds003688) -
-[Paper](https://www.biorxiv.org/content/10.1101/2021.06.09.447733v1)
+- Multimodal dataset of iEEG & fMRI data while watching a short movie (n=51 iEEG subjects):
+[Data](https://openneuro.org/datasets/ds003688) - 
+[Paper](https://doi.org/10.1038/s41597-022-01173-0)
 - A dataset of long-term iEEG recordings of naturalistic data & pose estimation (n=12):
 [Data](https://gui.dandiarchive.org/#/dandiset/000055/) -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.07.26.453884v1.abstract)
@@ -438,6 +470,16 @@ The following are openly available datasets with human intracranial data:
 - Intracranial data investigating responses to single-pulse stimulation (n=52):
 [Data](https://dabi.loni.usc.edu/dsi/W4SNQ7HR49RL) - 
 [Paper](https://doi.org/10.1016/j.brs.2022.02.017)
+
+### Individual iEEG Datasets - Clinical Recordings
+
+The following are openly available datasets that contain seizures and/or are annotated for epilepsy:
+- A multicenter collection of iEEG data, including seizures (n=30):
+[Data](https://openneuro.org/datasets/ds003029/versions/1.0.3) - 
+[Paper](https://doi.org/10.1038/s41593-021-00901-w)
+- A dataset of iEEG recordings from epilepsy patients, organized in BIDS (n=12):
+[Data](https://doi.org/10.18112/openneuro.ds003844.v1.0.3) - 
+[Paper](https://doi.org/10.1007/s12021-022-09567-6)
 
 ### Human Single Unit Data
 
