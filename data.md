@@ -6,7 +6,8 @@ permalink: /data/
 
 This is a list of openly available electrophysiological data, including EEG, MEG, ECoG/iEEG, and LFP data.
 
-Datasets and resources listed here should all be openly-accessible for research purposes, requiring, at most, registration for access. Be sure to check the license and/or usage agreements for any datasets you access.
+Datasets and resources listed here should all be openly-accessible for research purposes, requiring, at most, registration for access. 
+Be sure to check the license and/or usage agreements for any datasets you access.
 
 To contribute a new link to a data source or resource, open an issue mentioning it, or a pull request with a link.
 
@@ -17,12 +18,13 @@ To contribute a new link to a data source or resource, open an issue mentioning 
 - [EEG Data](#eeg-data)
 - [MEG Data](#meg-data)
 - [Human Intracranial Data](#human-intracranial-data)
-- [Animal LFP Data](#animal-lfp-data)
+- [Animal Data](#animal-data)
 - [Behavioral Data](#behavioral-data)
 
 ## Data Formats
 
-The datasets listed here are not guaranteed to be in any particular format. Whenever possible, using standardized data formats can help make datasets more inter-operable.
+The datasets listed here are not guaranteed to be in any particular format. 
+Whenever possible, using standardized data formats can help make datasets more inter-operable.
 
 Standardized data formats for neurophysiological data include:
 - [Neurodata Without Borders](https://www.nwb.org), or NWB, is a general data standard for neurophysiology, with the goal of promoting a common standard for storing, sharing, and archiving data. The NWB project also maintains a list of publicly available [NWB datasets](https://www.nwb.org/example-datasets/).
@@ -42,6 +44,7 @@ There are several repositories, journals, and search engines that can be checked
 - The [DANDI](https://gui.dandiarchive.org/#/) archive ('distributed archives for neurophysiological data integration') is a platform for sharing and processing neurophysiological data. It includes a list of [public datasets](https://gui.dandiarchive.org/#/dandiset). Data on DANDI is generally organized in NWB format.
 - The [DABI](https://dabi.loni.usc.edu/home) repository ('data archive BRAIN initiative') is a platform for storing and processing invasive neurophysiological data, in particular for the BRAIN initiative.
 - The [EBrains](https://ebrains.eu/) platform for the European Union's 'Human Brain Project' includes a data portal with available data, including some extra- and intra-cranial human recordings
+- [CONP](https://conp.ca/), the 'Canadian Open Neuroscience Platform', is a resource for sharing open-science workflows and neuroscience data, including all kinds of neuroscience data.
 
 #### General Purpose Data Repositories
 
@@ -54,6 +57,7 @@ There are a few general purpose repositories that you can search for data:
 - [Harvard Dataverse](https://dataverse.harvard.edu/) is a general-purpose repository for research data, that includes some neuroscience data
 - [Science Data Bank](https://www.scidb.cn/en) is a general-purpose repository for research data, that includes some neuroscience data
 - [Kaggle](https://www.kaggle.com) is a private company that hosts data analysis competitions. These competitions typically include a dataset, and they also maintain a repository of [available datasets](https://www.kaggle.com/datasets).
+- The [IEEE Data Port](https://ieee-dataport.org/) is a general purpose repository managed by IEEE (the institute of electrical and electronics engineers). Some datasets are freely available, however some require a DataPort subscription. For neuroscience related data, see the [biophysiological signal](https://ieee-dataport.org/topic-tags/biophysiological-signals) section. 
 
 #### Data Journals
 
@@ -124,9 +128,10 @@ A large collection of EEG recorded in clinical settings (hospital data).
 [Paper](https://doi.org/10.3389/fnins.2016.00196)
 
 The TUH includes multiple (described [here](https://isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml)), including:
+- The TUH EEG Corpus (TUEG), with over 30,000 hospital EEG recordings
 - The TUH Abnormal EEG Corpus (TUAB), with annotatations for if recordings are normal or abnormal
 - The TUH EEG Artifact Corpus (TUAR), with annotations of different artifacts
-- The TUH Epilepsy Corpus (TUEP), with a selected of subjects with and without epilepsy
+- The TUH Epilepsy Corpus (TUEP), with a subset of subjects with and without epilepsy
 - The TUH EEG Events Corpus (TUEV), with annotations of specific events (sharp waves, epileptiform discharges, etc)
 - The TUH EEG Seizure Corpus (TUSZ), with annotations for seizures
 - The TUH EEG Slowing Corpus (TUSL), with annotations for slowing events
@@ -150,6 +155,13 @@ Available datasets include:
 [Paper](https://doi.org/10.1093/gigascience/gix002)
 - EEG activity using a driving simulator (n=15):
 [Paper](https://doi.org/10.5220/0006249504410450)
+
+### Brain Clinics - TDBrain Dataset
+
+The TDBrain dataset is a dataset of EEG data for 1200 subjects.
+
+[Homepage](https://brainclinics.com/resources/) - 
+[Paper](https://doi.org/10.1038/s41597-022-01409-z)
 
 ### NITRC - Neuroimaging Tools & Resource Collaboratory
 
@@ -360,6 +372,11 @@ The following are available EEG datasets collected in the context of clinical re
 - A dataset of EEG recordings from pediatric subjects with intractable seizures (n=22):
 [Data](https://physionet.org/content/chbmit/1.0.0/) - 
 [Paper](https://dspace.mit.edu/handle/1721.1/54669)
+- EEG recordings containing HFO markings for pediatric patients with epilepsy (n=30):
+[Data](https://openneuro.org/datasets/ds003555/versions/1.0.1)
+- EEG recordings from children pre- and post-surgery for epilepsy (n=11):
+[Data](https://gin.g-node.org/USZ_NCH/Scalp_EEG_HFO)
+[Paper](https://doi.org/10.1038/s41598-019-52700-w)
 
 ### Other lists of EEG Data
 
@@ -407,6 +424,9 @@ The following are openly available datasets with MEG data:
 - MEG data during four mental imagery tasks, for BCI analyses (n=17):
 [Data](https://doi.org/10.6084/m9.figshare.c.5101544) -
 [Paper](https://doi.org/10.1038/s41597-021-00899-7)
+- MEG data during pharmacological manipulation including taigabine, ketamine, and LSD
+[Data](https://doi.org/10.7910/DVN/9Q1SKM) - 
+[Paper](https://doi.org/10.1016/j.neuroimage.2018.06.068)
 
 ## Human Intracranial Data
 
@@ -480,6 +500,12 @@ The following are openly available datasets that contain seizures and/or are ann
 - A dataset of iEEG recordings from epilepsy patients, organized in BIDS (n=12):
 [Data](https://doi.org/10.18112/openneuro.ds003844.v1.0.3) - 
 [Paper](https://doi.org/10.1007/s12021-022-09567-6)
+- Interictal iEEG during slow-wave sleep with HFO markings (n=20):
+[Data](https://openneuro.org/datasets/ds003498/versions/1.1.0) - 
+[Paper](https://doi.org/10.1038/s41598-017-13064-1)
+- Intraoperative pre- and post-resection ECoG from epilepsy patients (n=22):
+[Data](https://gin.g-node.org/USZ_NCH/Intraoperative_ECoG_HFO/) - 
+[Paper](https://doi.org/10.1016/j.clinph.2019.07.008)
 
 ### Human Single Unit Data
 
@@ -489,7 +515,7 @@ Available datasets with single unit data from humans:
 [Paper](https://doi.org/10.1038/s41597-020-0415-9) -
 [Associated Code](https://github.com/rutishauserlab/recogmem-release-NWB)
 - Human single units with a verbal working memory task, also including iEEG data (n=9):
-[Data](https://gin.g-node.org/USZ_NCH/Human_MTL_units_scalp_EEG_and_iEEG_verbal_WM) -
+[Data](https://doi.gin.g-node.org/10.12751/g-node.d76994/) - 
 [Paper](https://www.nature.com/articles/s41597-020-0364-3)
 - Human single units from the amygdala, with visual presentation of neutral and aversive stimuli (n=9):
 [Data](https://doi.gin.g-node.org/10.12751/g-node.270z59/) -
@@ -498,9 +524,11 @@ Available datasets with single unit data from humans:
 [Data](https://doi.org/10.5061/dryad.d2547d840) -
 [Paper](https://doi.org/10.1101/2021.06.20.449152)
 
-## Animal LFP Data
+## Animal Data
 
-Openly available animal datasets with local field potential (LFP) data, including multi-electrode arrays, animal ECoG, single-units, or similar recordings.
+Openly available animal datasets with electrophysiological recordings collected from animal models, 
+including local field potential (LFP) and/or single-unit activity collected from single-electrodes, 
+multi-electrode arrays, animal ECoG, or similar recordings.
 
 ### NeuroTycho
 
@@ -543,10 +571,14 @@ The following are available individual LFP and related datasets:
 - High channel count (1024) Utah array recordings in macaque V1 and V4 from resting state (n=2):
 [Data](https://doi.gin.g-node.org/10.12751/g-node.i20kyh/) -
 [Paper](https://doi.org/10.1038/s41597-022-01180-1)
+- Electrophysiological dataset from macaque visual cortical area MST (n=3):
+[Data](https://doi.org/10.12751/g-node.d8yhh8) - 
+[Paper](https://doi.org/10.1038/s41597-022-01239-z)
+- Spiking activity from macaque primary motor and dorsal premotor cortex during delated reaching (n=1):
+[Data](https://dandiarchive.org/dandiset/000140/)
 
 ## Behavioral Data
 
 This list does not currently track behaviour-only data.
 
 See this [list of available behavioral data](https://nivlab.github.io/opendata/).
-
