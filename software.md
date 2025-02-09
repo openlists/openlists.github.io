@@ -34,7 +34,7 @@ The following are general purpose platforms, with functionality including: loadi
 
 `MNE` is a general purpose tool for processing, analyzing, and visualizing M/EEG data.
 
-[HomePage](https://martinos.org/mne/stable/index.html) -
+[Home Page](https://martinos.org/mne/stable/index.html) -
 [Github](https://github.com/mne-tools/mne-python) -
 [Paper](https://doi.org/10.1016/j.neuroimage.2013.10.027)
 
@@ -46,12 +46,12 @@ The following are general purpose platforms, with functionality including: loadi
 
 `neo` is a tool for representing electrophysiology data, and reading neurophysiological file formats.
 
-[HomePage](https://neo.readthedocs.io/en/latest/) -
+[Home Page](https://neo.readthedocs.io/en/latest/) -
 [Github](https://github.com/NeuralEnsemble/python-neo)
 
 `elephant` is a tool for analyzing electrophysiological data.
 
-[HomePage](https://neuralensemble.org/elephant/) -
+[Home Page](https://neuralensemble.org/elephant/) -
 [Github](https://github.com/NeuralEnsemble/elephant)
 
 ### Wonambi
@@ -61,7 +61,7 @@ The following are general purpose platforms, with functionality including: loadi
 
 `Wonambi` is a general purpose tool for processing, analyzing, and visualizing EEG data, including specific tools focused on sleep scoring and analysis.
 
-[HomePage](https://wonambi-python.github.io) -
+[Home Page](https://wonambi-python.github.io) -
 [Github](https://github.com/wonambi-python/wonambi)
 
 ### NeuroKit2
@@ -70,7 +70,7 @@ The following are general purpose platforms, with functionality including: loadi
 
 `NeuroKit2` is a tool for neurophysiological signal processing.
 
-[HomePage](https://neurokit2.readthedocs.io/en/latest/) -
+[Home Page](https://neuropsychology.github.io/NeuroKit/) -
 [Github](https://github.com/neuropsychology/NeuroKit)
 
 ### FieldTrip
@@ -80,7 +80,7 @@ The following are general purpose platforms, with functionality including: loadi
 
 `FieldTrip` is a general purpose tool for processing, analyzing, and visualizing M/EEG and iEEG/ECoG data.
 
-[HomePage](http://www.fieldtriptoolbox.org) -
+[Home Page](http://www.fieldtriptoolbox.org) -
 [Github](https://github.com/fieldtrip/fieldtrip) -
 [Paper](https://doi.org/10.1155/2011/156869)
 
@@ -91,7 +91,7 @@ The following are general purpose platforms, with functionality including: loadi
 
 `BrainStorm` is a general purpose tool for processing, analyzing and visualizing focused primarily on MEG data, with additional support for EEG & ECoG data.
 
-[HomePage](https://neuroimage.usc.edu/brainstorm/) -
+[Home Page](https://neuroimage.usc.edu/brainstorm/) -
 [Github](https://github.com/brainstorm-tools/brainstorm3) -
 [Paper](https://doi.org/10.1155/2011/879716)
 
@@ -102,7 +102,7 @@ The following are general purpose platforms, with functionality including: loadi
 
 `EEGLab` is a general purpose tool for processing, analyzing, and visualizing EEG data.
 
-[HomePage](https://sccn.ucsd.edu/eeglab/index.php) -
+[Home Page](https://sccn.ucsd.edu/eeglab/index.php) -
 [Paper](https://doi.org/10.1016/j.jneumeth.2003.10.009)
 
 ### SPM
@@ -112,7 +112,7 @@ The following are general purpose platforms, with functionality including: loadi
 
 `SPM` is a general purpose toolbox for neuroimaging, including support for processing M/EEG data.
 
-[HomePage](https://www.fil.ion.ucl.ac.uk/spm/)
+[Home Page](https://www.fil.ion.ucl.ac.uk/spm/)
 
 ### NutMEG
 
@@ -120,7 +120,7 @@ The following are general purpose platforms, with functionality including: loadi
 
 `NutMEG` is a general purpose tool for processing, analyzing, and visualizing MEG data.
 
-[HomePage](https://nitrc.org/plugins/mwiki/index.php/nutmeg:MainPage) -
+[Home Page](https://nitrc.org/plugins/mwiki/index.php/nutmeg:MainPage) -
 [Github](https://github.com/UCSFBiomagneticImagingLab/nutmeg) -
 [Paper](https://doi.org/10.1155/2011/758973)
 
@@ -148,17 +148,26 @@ The `BBCI` tool is collection of tools for online and offline analyses for brain
 
 `EEGUtils` is a general purpose tool for processing, analyzing, and visualizing EEG data.
 
-[HomePage](https://bnicenboim.github.io/eeguana/) -
+[Home Page](https://bnicenboim.github.io/eeguana/) -
 [Github](https://github.com/craddm/eegUtils)
 
 ### EEGuana
 
+![Language](https://img.shields.io/badge/Language-R-lightgrey.svg)
+
 `EEGuana` is a package for working with EEG data.
+
+[Home Page](https://craddm.github.io/eegUtils/) -
+[Github](https://github.com/bnicenboim/eeguana/tree/master/R)
+
+### RAVE
 
 ![Language](https://img.shields.io/badge/Language-R-lightgrey.svg)
 
-[HomePage](https://craddm.github.io/eegUtils/) -
-[Github](https://github.com/bnicenboim/eeguana/tree/master/R)
+R Analysis and Visualization of iEEG (RAVE) is a tool for analyzing intracranial EEG data.
+
+[Home Page](https://openwetware.org/wiki/RAVE) -
+[Paper](https://doi.org/10.1016/j.neuroimage.2020.117341)
 
 ### EEG.jl
 
@@ -166,7 +175,7 @@ The `BBCI` tool is collection of tools for online and offline analyses for brain
 
 `EEG.jl` is library for processing EEG data.
 
-[HomePage](https://eegjl.readthedocs.io/en/latest/) -
+[Home Page](https://eegjl.readthedocs.io/en/latest/) -
 [Github](https://github.com/rob-luke/EEG.jl)
 
 ### CarTool
@@ -175,8 +184,14 @@ The `BBCI` tool is collection of tools for online and offline analyses for brain
 
 `CarTool` is an EEG analysis toolbox.
 
-[HomePage](https://sites.google.com/site/cartoolcommunity/) -
+[Home Page](https://sites.google.com/site/cartoolcommunity/) -
 [Paper](https://doi.org/10.1155/2011/813870)
+
+### Luna
+
+Luna is a software toolkit for analyzing sleep data, including implementations in C/C++, R, and Python. 
+
+[HomePage](https://zzz.bwh.harvard.edu/luna/)
 
 ## Standalone Tools
 
@@ -214,11 +229,10 @@ The following are standalone tools, independent of general software platforms, f
 
 ### pynapple
 
-Pynapple (Python Neural Analysis Package) is a lightweight, general purpose library for analyzing neurophysiological data, that includes some utilities for working with field data. 
+Pynapple (Python Neural Analysis Package) is a lightweight, general purpose library for analyzing neurophysiological data, that includes some utilities for working with field data.
 
-[Homepage](https://peyrachelab.github.io/pynapple/) - 
+[Homepage](https://peyrachelab.github.io/pynapple/) -
 [Github](https://github.com/PeyracheLab/pynapple)
-
 
 ### IRASA
 
@@ -272,7 +286,7 @@ Note that this is a re-implementation of the algorithm described in the paper.
 
 `Spectral Connectivity` is a package for functional connectivity and coherence related measures.
 
-[HomePage](https://spectral-connectivity.readthedocs.io/en/latest/index.html) -
+[Home Page](https://spectral-connectivity.readthedocs.io/en/latest/index.html) -
 [Github](https://github.com/Eden-Kramer-Lab/spectral_connectivity)
 
 ### Brain Connectivity Toolbox for Python
@@ -289,7 +303,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 
 `TensorPAC` is a tool for calculating phase-amplitude coupling measures, using tensors and parallel computing.
 
-[HomePage](https://etiennecmb.github.io/tensorpac/) -
+[Home Page](https://etiennecmb.github.io/tensorpac/) -
 [Github](https://github.com/EtienneCmb/tensorpac) -
 [Paper](https://doi.org/10.1371/journal.pcbi.1008302)
 
@@ -299,7 +313,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 
 `PACTools` is a package for calculating phase-amplitude coupling measures in neural time series.
 
-[HomePage](https://pactools.github.io) -
+[Home Page](https://pactools.github.io) -
 [Github](https://github.com/pactools/pactools)
 
 ### PyEEG
@@ -325,7 +339,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 
 `EELBrain` is a tool for statistical analysis of M/EEG data.
 
-[HomePage](https://eelbrain.readthedocs.io/en/stable/index.html) -
+[Home Page](https://eelbrain.readthedocs.io/en/stable/index.html) -
 [Github](https://github.com/christianbrodbeck/Eelbrain) -
 [Paper](https://www.biorxiv.org/content/10.1101/2021.08.01.454687v1)
 
@@ -335,7 +349,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 
 `YASA` is a package for analyzing polysomnograghy recordings.
 
-[HomePage](https://raphaelvallat.com/yasa/build/html/index.html) -
+[Home Page](https://raphaelvallat.com/yasa/build/html/index.html) -
 [Github](https://github.com/raphaelvallat/yasa)
 
 ### kCSD - kernel Current Source Density
@@ -344,7 +358,7 @@ The `Brain Connectivity Toolbox` is a package for brain connectivity measures.
 
 The `kCSD` tool implements kernel Current Source Density.
 
-[HomePage](https://kcsd-python.readthedocs.io/en/latest/) -
+[Home Page](https://kcsd-python.readthedocs.io/en/latest/) -
 [Github](https://github.com/Neuroinflab/kCSD-python) -
 [Paper](https://www.biorxiv.org/content/10.1101/708511v1.abstract)
 
@@ -354,9 +368,19 @@ The `kCSD` tool implements kernel Current Source Density.
 
 The `EMD` toolbox implements empirical mode decomposition and Hilbert-Huang spectral analyses.
 
-[HomePage](https://emd.readthedocs.io/) -
+[Home Page](https://emd.readthedocs.io/) -
 [Code](https://gitlab.com/emd-dev/emd) -
 [Paper](http://doi.org/10.21105/joss.02977)
+
+### Xenon LFP Analysis Platform
+
+![Language](https://img.shields.io/badge/Language-Python-blue.svg)
+
+Xenon is an interactive platform for analyzing LFP activity from multi-electrode array (MEA) recordings.
+
+[Home Page](https://xenon-lfp-analysis.readthedocs.io/en/latest/index.html) -
+[Github](https://github.com/MicroBrew09/xenon-lfp-analysis) -
+[Paper](https://doi.org/10.3389/fnins.2022.904931)
 
 ### eBOSC - extended Better OSCillation detector
 
@@ -392,7 +416,7 @@ The `EMD` toolbox implements empirical mode decomposition and Hilbert-Huang spec
 
 Phase Opposition is a collection of functions for calculating phase opposition measures.
 
-[HomePage](http://www.cerco.ups-tlse.fr/~rufin/PhaseOppositionCode/) -
+[Home Page](http://www.cerco.ups-tlse.fr/~rufin/PhaseOppositionCode/) -
 [Paper](https://doi.org/10.3389/fnins.2016.00426)
 
 ### ADAM - Amsterdam Decoding and Modeling Toolbox
@@ -410,7 +434,7 @@ Phase Opposition is a collection of functions for calculating phase opposition m
 
 `HERMES` is tool for estimating connectivity measures between M/EEG signals.
 
-[HomePage](http://hermes.ctb.upm.es) -
+[Home Page](http://hermes.ctb.upm.es) -
 [Github](https://github.com/guiomar/HERMES) -
 [Paper](https://doi.org/10.3389/fnins.2018.00368)
 
@@ -429,7 +453,7 @@ Phase Opposition is a collection of functions for calculating phase opposition m
 
 `Unfold` is a tool for deconvolving overlapping EEG signals and for non-linear modeling.
 
-[HomePage](https://www.unfoldtoolbox.org) -
+[Home Page](https://www.unfoldtoolbox.org) -
 [Github](https://github.com/unfoldtoolbox/unfold) -
 [Paper](https://doi.org/10.7717/peerj.7838)
 
@@ -448,7 +472,7 @@ Phase Opposition is a collection of functions for calculating phase opposition m
 
 `ERA` is a tool for calculating reliability estimates for ERP data.
 
-[HomePage](http://peterclayson.com/era-toolbox/) -
+[Home Page](http://peterclayson.com/era-toolbox/) -
 [Github](https://github.com/peclayson/ERA_Toolbox) -
 [Paper](https://doi.org/10.1016/j.ijpsycho.2016.10.012)
 
@@ -475,7 +499,7 @@ Phase Opposition is a collection of functions for calculating phase opposition m
 
 The `MVGC` toolbox is designed to run Granger-causal analysis on multivariate time-series data.
 
-[HomePage](https://users.sussex.ac.uk/~lionelb/MVGC/html/mvgchelp.html#3) -
+[Home Page](https://users.sussex.ac.uk/~lionelb/MVGC/html/mvgchelp.html#3) -
 [Code](https://www.sussex.ac.uk/sackler/mvgc/) -
 [Paper](https://doi.org/10.1016/j.jneumeth.2013.10.018)
 
@@ -483,11 +507,20 @@ The `MVGC` toolbox is designed to run Granger-causal analysis on multivariate ti
 
 ![Language](https://img.shields.io/badge/Language-C++-yellowgreen.svg)
 
-`OpemMEEG` is a package for solving forward problems for EEG & MEG data.
+`OpenMEEG` is a package for solving forward problems for EEG & MEG data.
 
-[HomePage](https://openmeeg.github.io) -
+[Home Page](https://openmeeg.github.io) -
 [Github](https://github.com/openmeeg/openmeeg) -
 [Paper](https://doi.org/10.1186/1475-925X-9-45)
+
+### fast Continuous Wavelet Transform
+
+![Language](https://img.shields.io/badge/Language-C++-yellowgreen.svg)
+
+`fCWT` is a package for fast calculations of Continuous Wavelet Transforms.
+
+[Github](https://github.com/fastlib/fCWT) -
+[Paper](https://doi.org/10.1038/s43588-021-00183-z)
 
 ## Plugins
 
@@ -500,7 +533,7 @@ The following are plugins, designed primary for use with one of the aforemention
 
 `AutoReject` is a tool for preprocessing M/EEG data, but algorithmically determining and applying rejection thresholds, with MNE.
 
-[HomePage](https://autoreject.github.io) -
+[Home Page](https://autoreject.github.io) -
 [Github](https://github.com/autoreject/autoreject) -
 [Paper](https://doi.org/10.1016/j.neuroimage.2017.06.030)
 
@@ -511,7 +544,7 @@ The following are plugins, designed primary for use with one of the aforemention
 
 `MNE-BIDS` is a tool for creating [BIDS](https://bids.neuroimaging.io/) compatible datasets with MNE.
 
-[HomePage](https://mne.tools/mne-bids/) -
+[Home Page](https://mne.tools/mne-bids/) -
 [Github](https://github.com/mne-tools/mne-bids) -
 [Paper](https://doi.org/10.21105/joss.01896)
 
@@ -531,7 +564,7 @@ The following are plugins, designed primary for use with one of the aforemention
 
 The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EEGLab.
 
-[HomePage](https://vislab.github.io/EEG-Clean-Tools/) -
+[Home Page](https://vislab.github.io/EEG-Clean-Tools/) -
 [Github](https://github.com/VisLab/EEG-Clean-Tools) -
 [Paper](https://doi.org/10.3389/fninf.2015.00016)
 
@@ -542,8 +575,8 @@ The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EE
 
 `RELAX` (Reduction of Electroencephalographic Artifacts) provides a fully automated method to clean EEG data.
 
-[Github](https://github.com/NeilwBailey/RELAX) - 
-[Paper1](https://doi.org/10.1101/2022.03.08.483548) - 
+[Github](https://github.com/NeilwBailey/RELAX) -
+[Paper1](https://doi.org/10.1101/2022.03.08.483548) -
 [Paper2](https://doi.org/10.1101/2022.03.08.483554)
 
 ### ADJUST
@@ -553,7 +586,7 @@ The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EE
 
 `ADJUST` is an automatic artifact identification and removal tool, using EEGLab.
 
-[HomePage](https://www.nitrc.org/projects/adjust/) -
+[Home Page](https://www.nitrc.org/projects/adjust/) -
 [Paper](https://doi.org/10.1111/j.1469-8986.2010.01061.x)
 
 ### ERPlab
@@ -563,7 +596,7 @@ The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EE
 
 `ERPLab` is a tool for event-related potential (ERP) analysis of EEG data, with EEGLab.
 
-[HomePage](https://erpinfo.org/erplab) -
+[Home Page](https://erpinfo.org/erplab) -
 [Github](https://github.com/lucklab/erplab) -
 [Paper](https://doi.org/10.3389/fnhum.2014.00213)
 
@@ -574,7 +607,7 @@ The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EE
 
 `LIMO` is a tool for Linear Modeling of EEG data, with EEGLab.
 
-[HomePage](https://github.com/LIMO-EEG-Toolbox/limo_eeg/wiki) -
+[Home Page](https://github.com/LIMO-EEG-Toolbox/limo_eeg/wiki) -
 [Github](https://github.com/LIMO-EEG-Toolbox/limo_eeg) -
 [Paper](https://doi.org/10.1155/2011/831409)
 
@@ -585,7 +618,7 @@ The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EE
 
 `SIFT` is a tool for causality and information flow measures, with EEGLab.
 
-[HomePage](https://sccn.ucsd.edu/wiki/SIFT)
+[Home Page](https://sccn.ucsd.edu/wiki/SIFT)
 
 ### MPT - Measure Projection Toolbox
 
@@ -594,7 +627,7 @@ The `PREP` pipeline is a standardized pre-processing tool for EEG data, using EE
 
 `MPT` is a tool for probabilistic multi-subject EEG independent component analysis, with EEGLab.
 
-[HomePage](https://sccn.ucsd.edu/wiki/MPT)
+[Home Page](https://sccn.ucsd.edu/wiki/MPT)
 
 ## Neuro Tools
 
@@ -606,7 +639,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 `nibabel` is a tool for read/write access to common neuroimaging file formats.
 
-[HomePage](https://nipy.org/nibabel/) -
+[Home Page](https://nipy.org/nibabel/) -
 [Github](https://github.com/nipy/nibabel)
 
 ### nilearn
@@ -615,7 +648,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 `nilearn` is a tool for applying machine learning to neuroimaging data.
 
-[HomePage](https://nilearn.github.io/) -
+[Home Page](https://nilearn.github.io/) -
 [Github](https://github.com/nilearn/nilearn)
 
 ### Visbrain
@@ -642,7 +675,7 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 `BrainSpace` is a tool for analyzing gradients in neuroimaging datasets.
 
-[HomePage](https://brainspace.readthedocs.io/en/latest/) -
+[Home Page](https://brainspace.readthedocs.io/en/latest/) -
 [Github](https://github.com/MICA-MNI/BrainSpace) -
 [Paper](https://doi.org/10.1038/s42003-020-0794-7)
 
@@ -652,6 +685,6 @@ The following are broader purpose neuro-tools that could be used with electrophy
 
 `neuromaps` is a tool for comparing between brain maps.
 
-[HomePage](https://netneurolab.github.io/neuromaps/) -
+[Home Page](https://netneurolab.github.io/neuromaps/) -
 [Github](https://github.com/netneurolab/neuromaps) -
 [Paper](https://www.biorxiv.org/content/10.1101/2022.01.06.475081v1)
