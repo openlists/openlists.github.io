@@ -417,6 +417,12 @@ The following are datasets collected with research EEG systems:
 - An EEG dataset while participants read Chinese (n=10):
 [Data](https://openneuro.org/datasets/ds004952) -
 [Paper](https://doi.org/10.1101/2024.02.08.579481)
+- A High-Resolution EEG Dataset for Emotion Research (n=40):
+[Data](https://www.interdigital.com/data_sets/hr-eeg4emo-dataset) -
+[Paper](https://doi.org/10.1109/TAFFC.2017.2768030)
+- Infant EEG data during rapid serial visual presentation paradigm (n=42):
+[Data](https://openneuro.org/datasets/ds005106/versions/1.5.0) -
+[Paper](https://www.nature.com/articles/s41597-025-04744-z)
 
 ### Individual EEG Datasets - Research Tasks (Consumer Systems)
 
@@ -585,6 +591,9 @@ The following are openly available datasets with human intracranial data:
 - Intracranial recordings during finger movement (n=3):
 [Data](https://www.bbci.de/competition/iv/download/index.html) -
 [Paper](https://doi.org/10.1088/1741-2560/6/6/066001)
+- 'Podcast' dataset of ECoG recordings during natural language comprehension (n=9):
+[Data](https://openneuro.org/datasets/ds005574) -
+[Paper](https://www.nature.com/articles/s41597-025-05462-2)
 
 ### Individual iEEG Datasets - Clinical Recordings
 
@@ -601,6 +610,9 @@ The following are openly available datasets that contain seizures and/or are ann
 - Intra-operative pre- and post-resection ECoG from epilepsy patients (n=22):
 [Data](https://gin.g-node.org/USZ_NCH/Intraoperative_ECoG_HFO/) -
 [Paper](https://doi.org/10.1016/j.clinph.2019.07.008)
+- Annotated interictal discharges during sleep in iEEG recordings (n=25):
+[Data](https://figshare.com/articles/dataset/_b_Annotated_b_b_interictal_epileptiform_discharges_in_b_b_intracranial_EEG_iEEG_sleep_data_b_/26131978?file=51412736) -
+[Paper](https://www.nature.com/articles/s41597-024-04187-y)
 
 ### Human Single Neuron Data
 
